@@ -18,7 +18,7 @@ export default function AlbumCover({ style }: AlbumCoverProps) {
       className="relative w-full aspect-square max-w-2xl mx-auto mb-24"
     >
       <img 
-        src="https://images.unsplash.com/photo-1520209759809-a9bcb6cb3241?q=80&w=2000"
+        src="https://github.com/Aika-vrdj/takemyhand/blob/main/cover.png"
         alt="Album Cover"
         className="w-full h-full object-cover rounded-lg shadow-2xl"
       />

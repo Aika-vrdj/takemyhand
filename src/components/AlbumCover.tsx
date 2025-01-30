@@ -17,7 +17,7 @@ export default function AlbumCover({ style }: AlbumCoverProps) {
       }}
       className="relative w-full aspect-square max-w-2xl mx-auto mb-24"
     >
-      <image 
+      <img
         src="https://9tgwg8i0jc.ufs.sh/f/pACH3Nw7YgVWmpLguIiVjFe9AcYoI0J6fLMXxGSnt1UDhNpw"
         alt="Album Cover"
         className="w-full h-full object-cover rounded-lg shadow-2xl"

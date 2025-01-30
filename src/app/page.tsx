@@ -96,7 +96,6 @@ export default function HomePage() {
         </div>
 
         <StoreLink />
-        <Footer />
       </div>
     </div>
   );

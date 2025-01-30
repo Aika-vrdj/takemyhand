@@ -20,11 +20,11 @@ export default function HomePage() {
 
   const [dimensions, setDimensions] = useState({ width: 0, height: 0 });
 
-  const rotateX = useSpring(useTransform(mouseY, [0, dimensions.height], [5, -5]), {
+  const rotateX = useSpring(useTransform(mouseY, [0, dimensions.height], [8, -8]), {
     stiffness: 100,
     damping: 30
   });
-  const rotateY = useSpring(useTransform(mouseX, [0, dimensions.width], [-5, 5]), {
+  const rotateY = useSpring(useTransform(mouseX, [0, dimensions.width], [-8, 8]), {
     stiffness: 100,
     damping: 30
   });

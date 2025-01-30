@@ -5,8 +5,8 @@ import ThemeToggle from "@/components/ThemeToggle";
 import "@/styles/globals.css";
 
 export const metadata: Metadata = {
-  title: "Album Release",
-  description: "Experience the new album",
+  title: "Take my Hand",
+  description: "Aika VRDJ new single",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 
